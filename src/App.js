@@ -5,7 +5,6 @@ import Quora from "./component/Quora";
 function App() {
   return(  
   <div className="App">
-  Hello lets build colezzone 
   <Quora />
   </div>
   );

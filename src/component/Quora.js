@@ -4,7 +4,7 @@ import Navbar from "./Navbar";
 function Quora() {
   return (
     <div className ="quora">
-      Hello from the quora container component.
+      
       <Navbar/>
     </div>
   );
