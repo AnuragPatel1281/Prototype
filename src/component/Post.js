@@ -23,7 +23,7 @@ function Post() {
             Answer
           </button>
         </div>
-        <img src= "https://qphs.fs.quoracdn.net/main-qimg-54c410af45d36057be09b23397fea9bb"
+        <img src= "https://economictimes.indiatimes.com/thumb/msid-62211697,width-1600,height-900,resizemode-4/tech/ites/mega-deal-for-tcs-cracks-record-2-25-billion-nielsen-outsourcing-contract.jpg"
              alt=""/>
       </div>
       <div className ="post_footer">
